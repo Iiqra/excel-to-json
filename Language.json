@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 1.0,
+        " Language": "English ",
+        " PossibleMappings": "Urdu, Dutch, Deutsch"
+    },
+    {
+        "ID": 2.0,
+        " Language": "Urdu",
+        " PossibleMappings": "English, Dutch, Deutsch"
+    },
+    {
+        "ID": 3.0,
+        " Language": "Turkish",
+        " PossibleMappings": "English, Urdu"
+    }
+]

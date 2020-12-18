@@ -1,0 +1,68 @@
+[
+    {
+        "ID": 1.0,
+        " TenseID": 1.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + V1st [+s/es if subject is the 3rd person singular]+ Object"
+    },
+    {
+        "ID": 2.0,
+        " TenseID": 2.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + is/am/are + V1st+ing + Object"
+    },
+    {
+        "ID": 3.0,
+        " TenseID": 3.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + has/have + V3rd + Object"
+    },
+    {
+        "ID": 4.0,
+        " TenseID": 4.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + has/have +been + V3rd + Object +for/since + time"
+    },
+    {
+        "ID": 5.0,
+        " TenseID": 5.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject +   V2nd + Object"
+    },
+    {
+        "ID": 6.0,
+        " TenseID": 6.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject +  was/were +V1st+ing  + Object"
+    },
+    {
+        "ID": 7.0,
+        " TenseID": 7.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + had+ V3rd + Object"
+    },
+    {
+        "ID": 8.0,
+        " TenseID": 8.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + had +been + V3rd + Object +for/since + time"
+    },
+    {
+        "ID": 9.0,
+        " TenseID": 9.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject +  will +  V1st + Object"
+    },
+    {
+        "ID": 10.0,
+        " TenseID": 10.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + will +be +  V1st +ing + Object"
+    },
+    {
+        "ID": 11.0,
+        " TenseID": 11.0,
+        " LanguageID": 1.0,
+        " Formula": "Subject + will +have + V3rd + Object"
+    }
+]
