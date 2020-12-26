@@ -1,46 +1,46 @@
 [
     {
         "ID": 1.0,
-        " Type": "Present Indefinite "
+        "Type": "Present Indefinite "
     },
     {
         "ID": 2.0,
-        " Type": "Present Continuouse"
+        "Type": "Present Continuouse"
     },
     {
         "ID": 3.0,
-        " Type": "Present Perfect"
+        "Type": "Present Perfect"
     },
     {
         "ID": 4.0,
-        " Type": "Present Perfect Continuous"
+        "Type": "Present Perfect Continuous"
     },
     {
         "ID": 5.0,
-        " Type": "Past Indefinite"
+        "Type": "Past Indefinite"
     },
     {
         "ID": 6.0,
-        " Type": "Past Continuous"
+        "Type": "Past Continuous"
     },
     {
         "ID": 7.0,
-        " Type": "Past Perfect"
+        "Type": "Past Perfect"
     },
     {
         "ID": 8.0,
-        " Type": "Past Perfect Continuous"
+        "Type": "Past Perfect Continuous"
     },
     {
         "ID": 9.0,
-        " Type": "Future Indefinite"
+        "Type": "Future Indefinite"
     },
     {
         "ID": 10.0,
-        " Type": "Future Continuous"
+        "Type": "Future Continuous"
     },
     {
         "ID": 11.0,
-        " Type": "Future Perfect"
+        "Type": "Future Perfect"
     }
 ]

@@ -1,156 +1,1115 @@
 [
     {
         "ID": 1.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 1.0,
-        " Translation": "\u0645\u06cc\u06ba \u0639\u0644\u06cc \u0627\u0648\u0631 \u0627\u062d\u0645\u062f \u06a9\u0648 \u062c\u0627\u0646\u062a\u0627 \u06c1\u0648\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 1.0,
+        "Translation": "I know Ali and Ahmad"
     },
     {
         "ID": 2.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 2.0,
-        " Translation": "\u0648\u06c1 \u0627\u0633\u06d2 \u0627\u0686\u06be\u06cc \u0637\u0631\u062d \u0633\u06d2 \u0633\u0645\u062c\u06be\u062a\u0627 \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 2.0,
+        "Translation": "He understands it very well"
     },
     {
         "ID": 3.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 3.0,
-        " Translation": "\u0627\u0646\u06c1\u06cc\u06ba \u067e\u0627\u0631\u06a9 \u0645\u06cc\u06ba \u06a9\u06be\u06cc\u0644\u0646\u0627 \u067e\u0633\u0646\u062f \u06c1\u06d2\u06d4"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 3.0,
+        "Translation": "They love swinging in the park."
     },
     {
         "ID": 4.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 4.0,
-        " Translation": "\u06a9\u0686\u06be \u0644\u0648\u06af \u0646\u0627\u0626\u0679 \u0648\u0627\u06a9 \u06a9\u0631\u0646\u0627 \u067e\u0633\u0646\u062f \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 4.0,
+        "Translation": "Some people like to do night walk"
     },
     {
         "ID": 5.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 5.0,
-        " Translation": "\u0645\u06cc\u06ba \u0639\u0627\u0645 \u0637\u0648\u0631 \u067e\u0631 \u0635\u0628\u062d 6.00 \u0628\u062c\u06d2 \u0627\u0679\u06be\u062a\u0627 \u06c1\u0648\u06ba\u06d4"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 5.0,
+        "Translation": "I usually wake up at 6.00 AM."
     },
     {
         "ID": 6.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 6.0,
-        " Translation": "\u0648\u06c1 \u06a9\u0631\u06a9\u0679 \u06a9\u06be\u06cc\u0644\u062a\u0627 \u06c1\u06d2 \u060c \u0644\u06cc\u06a9\u0646 \u0627\u0633 \u06a9\u0627 \u0628\u06be\u0627\u0626\u06cc \u0641\u0679 \u0628\u0627\u0644 \u06a9\u06be\u06cc\u0644\u062a\u0627 \u06c1\u06d2\u06d4"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 6.0,
+        "Translation": "He plays cricket, but his brother plays football."
     },
     {
         "ID": 7.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 7.0,
-        " Translation": "\u0632\u0645\u06cc\u0646 \u0628\u062f\u06be \u0633\u06d2 \u0628\u0691\u06cc \u06c1\u06d2\u06d4"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 7.0,
+        "Translation": "Earth is bigger than Mercury."
     },
     {
         "ID": 8.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 8.0,
-        " Translation": "\u0633\u0648\u0631\u062c \u06a9\u06cc \u062d\u0631\u0627\u0631\u062a \u0642\u0637\u0628\u06cc \u0642\u0637\u0628 \u0645\u06cc\u06ba \u06a9\u0645 \u0633\u06d2 \u06a9\u0645 \u06c1\u06d2\u06d4"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 8.0,
+        "Translation": "The heat of the sun is the least in the polar."
     },
     {
         "ID": 9.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 9.0,
-        " Translation": "\u0648\u06c1 \u0631\u0648\u0632\u0627\u0646\u06c1 \u06cc\u06c1 \u0634\u0648 \u062f\u06cc\u06a9\u06be\u062a\u06cc \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 9.0,
+        "Translation": "She watches this show daily "
     },
     {
         "ID": 10.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 10.0,
-        " Translation": "\u0648\u06c1 \u06c1\u0631 \u062c\u0645\u0639\u06c1 \u06a9\u0648 \u0627\u0633 \u0645\u0631\u06cc\u0636 \u0633\u06d2 \u0645\u0644\u0646\u06d2 \u0622\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 10.0,
+        "Translation": "They come to visit this patient on every Friday"
     },
     {
         "ID": 11.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 11.0,
-        " Translation": "\u0627\u0646 \u06a9\u0627 \u0628\u06be\u0627\u0626\u06cc \u0627\u0646 \u062f\u0646\u0648\u06ba \u0628\u06c1\u062a \u0645\u0635\u0631\u0648\u0641 \u0646\u0638\u0631 \u0622\u062a\u0627 \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 11.0,
+        "Translation": "His brother seems very busy these days"
     },
     {
         "ID": 12.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 12.0,
-        " Translation": "\u0627\u0633 \u06a9\u06cc \u0645\u0627\u06ba \u0645\u0632\u06cc\u062f\u0627\u0631 \u06a9\u06be\u0627\u0646\u0627 \u067e\u06a9\u0627 \u0631\u06c1\u06cc \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 12.0,
+        "Translation": "Her mother cooks delecious food "
     },
     {
         "ID": 13.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 13.0,
-        " Translation": "\u0622\u067e \u06c1\u0631 \u0627\u062a\u0648\u0627\u0631 \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0645\u0627\u06ba \u06a9\u06d2 \u06a9\u0645\u0631\u06d2 \u0645\u06cc\u06ba \u0633\u0648\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 13.0,
+        "Translation": "You sleep in your mother's room every sunday"
     },
     {
         "ID": 14.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 14.0,
-        " Translation": "\u0627\u0633\u06d2 \u0627\u067e\u0646\u06d2 \u0641\u0627\u0631\u063a \u0648\u0642\u062a \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0628\u06cc\u0679\u06be\u0646\u06d2 \u06a9\u0627 \u0644\u0637\u0641 \u0622\u062a\u0627 \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 14.0,
+        "Translation": "He enjoys sitting with you in his free time "
     },
     {
         "ID": 15.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 15.0,
-        " Translation": "\u0627\u0633\u062a\u0627\u062f \u0637\u0644\u0628\u0627\u0621 \u0633\u06d2 \u0622\u0648\u0627\u0632 \u0628\u0644\u0646\u062f \u06a9\u0631\u0646\u06d2 \u06a9\u0648 \u06a9\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 15.0,
+        "Translation": "Teacher asks students to not to make a noise"
     },
     {
         "ID": 16.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 16.0,
-        " Translation": "\u062c\u0648\u0646 \u0627\u0648\u0631 \u062c\u0648\u0644\u0627\u0626\u06cc \u0645\u06cc\u06ba \u0628\u0627\u0631\u0634 \u06c1\u0648\u062a\u06cc \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 16.0,
+        "Translation": "It rains in June and July "
     },
     {
         "ID": 17.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 17.0,
-        " Translation": "\u06c1\u0645 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u06a9\u06d2 \u0634\u0645\u0627\u0644\u06cc \u0639\u0644\u0627\u0642\u0648\u06ba \u0645\u06cc\u06ba \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 17.0,
+        "Translation": "We live in the Northern Areas of Pakistan"
     },
     {
         "ID": 18.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 18.0,
-        " Translation": "\u0633\u0627\u0631\u06c1 \u0648\u0642\u062a \u067e\u0631 \u0627\u067e\u0646\u06d2 \u0627\u0633\u06a9\u0648\u0644 \u062c\u0627\u062a\u06cc \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 18.0,
+        "Translation": "Sarah goes to her school on time"
     },
     {
         "ID": 19.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 19.0,
-        " Translation": "\u0648\u06c1 \u0645\u06cc\u0679\u06be\u0627 \u0645\u0633\u06a9\u0631\u0627\u062a\u0627 \u06c1\u06d2"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 19.0,
+        "Translation": "She smiles sweetly "
     },
     {
         "ID": 20.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 20.0,
-        " Translation": "\u0622\u0688\u06cc\u0634\u0646 \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u0622\u067e \u0633\u0628 \u06a9\u0648 \u06cc\u06c1 \u0641\u0627\u0631\u0645 \u067e\u064f\u0631 \u06a9\u0631\u0646\u0627 \u06c1\u0648\u06af\u0627"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 20.0,
+        "Translation": "You all require to fill this form before the audition"
     },
     {
         "ID": 21.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 21.0,
-        " Translation": "\u0648\u06c1 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u0686\u06cc\u0632 \u06a9\u06cc \u067e\u0631\u0648\u0627\u06c1 \u06a9\u06cc\u06d2 \u0628\u063a\u06cc\u0631 \u06af\u06be\u0646\u0679\u0648\u06ba \u06c1\u0627\u0644 \u0645\u06cc\u06ba \u0628\u06cc\u0679\u06be\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 21.0,
+        "Translation": "They sit on the sofa for hours without worrying about anything else "
     },
     {
         "ID": 22.0,
-        " TenseID": 1.0,
-        " LanguageID": 2.0,
-        " SentenceID": 22.0,
-        " Translation": "\u062c\u0628 \u06c1\u0645 \u0627\u067e\u0646\u06d2 \u0645\u0644\u06a9 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0627\u0686\u06be\u0627 \u0633\u0646\u062a\u06d2 \u06c1\u06cc\u06ba \u062a\u0648 \u06c1\u0645 \u0633\u0628 \u062e\u0648\u0634 \u06c1\u0648\u062a\u06d2 \u06c1\u06cc\u06ba"
+        "TenseID": 1.0,
+        "LanguageID": 2.0,
+        "SentenceID": 22.0,
+        "Translation": "We all look happy when we hear good about our Country"
+    },
+    {
+        "ID": 23.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 23.0,
+        "Translation": "They all are eating ice cream "
+    },
+    {
+        "ID": 24.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 24.0,
+        "Translation": "She is sleeping in your room"
+    },
+    {
+        "ID": 25.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 25.0,
+        "Translation": "He is buying this car for you"
+    },
+    {
+        "ID": 26.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 26.0,
+        "Translation": "She is baking cake for all of us "
+    },
+    {
+        "ID": 27.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 27.0,
+        "Translation": "You are going to meet them and I expect no more excuses from you "
+    },
+    {
+        "ID": 28.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 28.0,
+        "Translation": "They are finding a new appartment in Islamabad "
+    },
+    {
+        "ID": 29.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 29.0,
+        "Translation": "She is drinking camel milk daily "
+    },
+    {
+        "ID": 30.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 30.0,
+        "Translation": "You are missing going to school"
+    },
+    {
+        "ID": 31.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 31.0,
+        "Translation": "They are participating in this exhibition "
+    },
+    {
+        "ID": 32.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 32.0,
+        "Translation": "We are planning for a party on Sunday "
+    },
+    {
+        "ID": 33.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 33.0,
+        "Translation": "I am coming to your place this Monday "
+    },
+    {
+        "ID": 34.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 34.0,
+        "Translation": "She is going to meet this client next week "
+    },
+    {
+        "ID": 35.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 35.0,
+        "Translation": "He is lending his camera to his brother "
+    },
+    {
+        "ID": 36.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 36.0,
+        "Translation": "Doctor is seeing new patients at 6:00 O'clock "
+    },
+    {
+        "ID": 37.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 37.0,
+        "Translation": "Seller is talking to my mom"
+    },
+    {
+        "ID": 38.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 38.0,
+        "Translation": "Tailor is stitching your dress "
+    },
+    {
+        "ID": 39.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 39.0,
+        "Translation": "She is charging you extra because you are late"
+    },
+    {
+        "ID": 40.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 40.0,
+        "Translation": "The person is fixing your wall "
+    },
+    {
+        "ID": 41.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 41.0,
+        "Translation": "Labours are building this house"
+    },
+    {
+        "ID": 42.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 42.0,
+        "Translation": "You are living in the basement with other labours"
+    },
+    {
+        "ID": 43.0,
+        "TenseID": 2.0,
+        "LanguageID": 2.0,
+        "SentenceID": 43.0,
+        "Translation": "We all are writing a letter to the headmaster "
+    },
+    {
+        "ID": 44.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 44.0,
+        "Translation": "They have finished their homework on time "
+    },
+    {
+        "ID": 45.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 45.0,
+        "Translation": "They have eaten this chocolate already"
+    },
+    {
+        "ID": 46.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 46.0,
+        "Translation": "We have tried this resturant already "
+    },
+    {
+        "ID": 47.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 47.0,
+        "Translation": "We all have visited this place earlier"
+    },
+    {
+        "ID": 48.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 48.0,
+        "Translation": "She has asked me to come to her flat"
+    },
+    {
+        "ID": 49.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 49.0,
+        "Translation": "He has found a perfect laptop for you"
+    },
+    {
+        "ID": 50.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 50.0,
+        "Translation": "She has made cookies for all of us "
+    },
+    {
+        "ID": 51.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 51.0,
+        "Translation": "Sarah and Danial have moved to London "
+    },
+    {
+        "ID": 52.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 52.0,
+        "Translation": "My mother has showm me her wedding pictures last week "
+    },
+    {
+        "ID": 53.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 53.0,
+        "Translation": "You father has asked me to give my dad's contact number to him "
+    },
+    {
+        "ID": 54.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 54.0,
+        "Translation": "I have washed these clothes for you"
+    },
+    {
+        "ID": 55.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 55.0,
+        "Translation": "My cat has broken this glass "
+    },
+    {
+        "ID": 56.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 56.0,
+        "Translation": "I eat only banana, but you are drinking banana shake "
+    },
+    {
+        "ID": 57.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 57.0,
+        "Translation": "She has cleaned her room in the morning "
+    },
+    {
+        "ID": 58.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 58.0,
+        "Translation": "He has parked his car on the wrong spot "
+    },
+    {
+        "ID": 59.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 59.0,
+        "Translation": "We have invited them on dinner"
+    },
+    {
+        "ID": 60.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 60.0,
+        "Translation": "The president has distributed toys among special kids "
+    },
+    {
+        "ID": 61.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 61.0,
+        "Translation": "We all have listened to his speech yesterday "
+    },
+    {
+        "ID": 62.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 62.0,
+        "Translation": "My grandma has gifted me this bracelet "
+    },
+    {
+        "ID": 63.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 63.0,
+        "Translation": "My friend has asked if I can let her stay in my apartment for a week"
+    },
+    {
+        "ID": 64.0,
+        "TenseID": 3.0,
+        "LanguageID": 2.0,
+        "SentenceID": 64.0,
+        "Translation": "My neighbours have asked me to if they can use my car"
+    },
+    {
+        "ID": 65.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 65.0,
+        "Translation": "Children have been learning this poem since morning"
+    },
+    {
+        "ID": 66.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 66.0,
+        "Translation": "Father has been reading this newspaper for an hour "
+    },
+    {
+        "ID": 67.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 67.0,
+        "Translation": "He has been sleeping for two hours"
+    },
+    {
+        "ID": 68.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 68.0,
+        "Translation": "They have been visiting this place in June since 2005"
+    },
+    {
+        "ID": 69.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 69.0,
+        "Translation": "This team has been winning this match for the last five years "
+    },
+    {
+        "ID": 70.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 70.0,
+        "Translation": "This lady has been working here since last month "
+    },
+    {
+        "ID": 71.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 71.0,
+        "Translation": "I have been writing this letter for the last three hours "
+    },
+    {
+        "ID": 72.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 72.0,
+        "Translation": "People are fighting here since morning "
+    },
+    {
+        "ID": 73.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 73.0,
+        "Translation": "These students have not been focusing on their studies since last month "
+    },
+    {
+        "ID": 74.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 74.0,
+        "Translation": "The teacher has been teaching this lesson for the last two weeks "
+    },
+    {
+        "ID": 75.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 75.0,
+        "Translation": "It has been raining since yesterday night "
+    },
+    {
+        "ID": 76.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 76.0,
+        "Translation": "They have been knocking on your door for the last ten minutes"
+    },
+    {
+        "ID": 77.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 77.0,
+        "Translation": "My brother has been working in this office since 2018"
+    },
+    {
+        "ID": 78.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 78.0,
+        "Translation": "For the last three years, we have been celebrating your birthday in the same restaurant "
+    },
+    {
+        "ID": 79.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 79.0,
+        "Translation": "The engineers have been designing this building for the last two years "
+    },
+    {
+        "ID": 80.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 80.0,
+        "Translation": "She has been fasting since last week "
+    },
+    {
+        "ID": 81.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 81.0,
+        "Translation": "The patients have been waiting for the doctor for the last hour "
+    },
+    {
+        "ID": 82.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 82.0,
+        "Translation": "The doctor has been recommending me this medicine for last year "
+    },
+    {
+        "ID": 83.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 83.0,
+        "Translation": "My mother has been cooking these burgers at home for the last many years "
+    },
+    {
+        "ID": 84.0,
+        "TenseID": 4.0,
+        "LanguageID": 2.0,
+        "SentenceID": 84.0,
+        "Translation": "Alia has been reading this novel for a week now "
+    },
+    {
+        "ID": 85.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 85.0,
+        "Translation": "They ate my fruits "
+    },
+    {
+        "ID": 86.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 86.0,
+        "Translation": "She went to market alone "
+    },
+    {
+        "ID": 87.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 87.0,
+        "Translation": "His cat slept in my bed "
+    },
+    {
+        "ID": 88.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 88.0,
+        "Translation": "I found the lost keys myself "
+    },
+    {
+        "ID": 89.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 89.0,
+        "Translation": "We met her during English lecture on Sunday "
+    },
+    {
+        "ID": 90.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 90.0,
+        "Translation": "Mom paid all of our bills "
+    },
+    {
+        "ID": 91.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 91.0,
+        "Translation": "He wrote this poem on the Mother's Day"
+    },
+    {
+        "ID": 92.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 92.0,
+        "Translation": "Maira sent me your birthday pictures "
+    },
+    {
+        "ID": 93.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 93.0,
+        "Translation": "Your dog broke my favuorite glass in the kitchen  "
+    },
+    {
+        "ID": 94.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 94.0,
+        "Translation": "You wore that black dress only twice "
+    },
+    {
+        "ID": 95.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 95.0,
+        "Translation": "Ali and Taha grew up in this village "
+    },
+    {
+        "ID": 96.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 96.0,
+        "Translation": "They drove her home yesterday night "
+    },
+    {
+        "ID": 97.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 97.0,
+        "Translation": "I and Alina read this story without you "
+    },
+    {
+        "ID": 98.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 98.0,
+        "Translation": "She cut the cake alone on her birthday "
+    },
+    {
+        "ID": 99.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 99.0,
+        "Translation": "I needed your advice yesterday before making that decision "
+    },
+    {
+        "ID": 100.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 100.0,
+        "Translation": "Mom asked me to pay electricity bill from this shop "
+    },
+    {
+        "ID": 101.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 101.0,
+        "Translation": "They helped me to complete this story "
+    },
+    {
+        "ID": 102.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 102.0,
+        "Translation": "Labours constructed this bridge "
+    },
+    {
+        "ID": 103.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 103.0,
+        "Translation": "The boy sold all these books in low price "
+    },
+    {
+        "ID": 104.0,
+        "TenseID": 5.0,
+        "LanguageID": 2.0,
+        "SentenceID": 104.0,
+        "Translation": "Children made a lot of noise in the class "
+    },
+    {
+        "ID": 105.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 105.0,
+        "Translation": "They were playing cricket "
+    },
+    {
+        "ID": 106.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 106.0,
+        "Translation": "She was cleaning her room "
+    },
+    {
+        "ID": 107.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 107.0,
+        "Translation": "We were giving food to street dogs "
+    },
+    {
+        "ID": 108.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 108.0,
+        "Translation": "You all were chasing the thief in the midnight "
+    },
+    {
+        "ID": 109.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 109.0,
+        "Translation": "Hira and Ali were finishing their school work "
+    },
+    {
+        "ID": 110.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 110.0,
+        "Translation": "The police officer was staring at you when you were shouting on me "
+    },
+    {
+        "ID": 111.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 111.0,
+        "Translation": "The animals were making loud moaning in the morning "
+    },
+    {
+        "ID": 112.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 112.0,
+        "Translation": "It was raining on Monday "
+    },
+    {
+        "ID": 113.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 113.0,
+        "Translation": "We were eating chocolates together "
+    },
+    {
+        "ID": 114.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 114.0,
+        "Translation": "She was teaching really good "
+    },
+    {
+        "ID": 115.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 115.0,
+        "Translation": "They were reciting their holy book "
+    },
+    {
+        "ID": 116.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 116.0,
+        "Translation": "Mom was waiting for me outside the school "
+    },
+    {
+        "ID": 117.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 117.0,
+        "Translation": "Dad was scolding me for telling lie about yesterday party "
+    },
+    {
+        "ID": 118.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 118.0,
+        "Translation": "He was watching the horror money alone "
+    },
+    {
+        "ID": 119.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 119.0,
+        "Translation": "Children were making a lot of noise in the classroom "
+    },
+    {
+        "ID": 120.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 120.0,
+        "Translation": "Neighbors were complaining about the noise you make "
+    },
+    {
+        "ID": 121.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 121.0,
+        "Translation": "The cobbler was charging too much for fixing your shoes "
+    },
+    {
+        "ID": 122.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 122.0,
+        "Translation": "You were celebrating your success with your friends"
+    },
+    {
+        "ID": 123.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 123.0,
+        "Translation": "I was running too fast in the morning "
+    },
+    {
+        "ID": 124.0,
+        "TenseID": 6.0,
+        "LanguageID": 2.0,
+        "SentenceID": 124.0,
+        "Translation": "She was crying for the toys "
+    },
+    {
+        "ID": 125.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 125.0,
+        "Translation": "They had written you a letter on Friday"
+    },
+    {
+        "ID": 126.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 126.0,
+        "Translation": "She had prepared dinner for you"
+    },
+    {
+        "ID": 127.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 127.0,
+        "Translation": "We had visited this market before "
+    },
+    {
+        "ID": 128.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 128.0,
+        "Translation": "You all had watched this movie so many times before "
+    },
+    {
+        "ID": 129.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 129.0,
+        "Translation": "Shopkeeper had sold out this book in affordable price "
+    },
+    {
+        "ID": 130.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 130.0,
+        "Translation": "Goldsmith had made you fool by selling this ring so expensive"
+    },
+    {
+        "ID": 131.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 131.0,
+        "Translation": "Boys had played cricket in the morning  "
+    },
+    {
+        "ID": 132.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 132.0,
+        "Translation": "Kids had already fought over this topic "
+    },
+    {
+        "ID": 133.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 133.0,
+        "Translation": "Teacher had posted test marks on the university site "
+    },
+    {
+        "ID": 134.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 134.0,
+        "Translation": "Guest had already met you somewhere else "
+    },
+    {
+        "ID": 135.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 135.0,
+        "Translation": "Mother had waited for you quite a lot "
+    },
+    {
+        "ID": 136.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 136.0,
+        "Translation": "The poet had written a beuatiful poem "
+    },
+    {
+        "ID": 137.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 137.0,
+        "Translation": "The farmer had taken care of the fields "
+    },
+    {
+        "ID": 138.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 138.0,
+        "Translation": "Father had bought this car for me on my good result "
+    },
+    {
+        "ID": 139.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 139.0,
+        "Translation": "My sister had suggested me to buy this dress for you"
+    },
+    {
+        "ID": 140.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 140.0,
+        "Translation": "The man had killed these birds "
+    },
+    {
+        "ID": 141.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 141.0,
+        "Translation": "My brother had invited his friends on this Sunday "
+    },
+    {
+        "ID": 142.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 142.0,
+        "Translation": "My friends had planned a party for me"
+    },
+    {
+        "ID": 143.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 143.0,
+        "Translation": "She had paid your school fee "
+    },
+    {
+        "ID": 144.0,
+        "TenseID": 7.0,
+        "LanguageID": 2.0,
+        "SentenceID": 144.0,
+        "Translation": "These people had already forgotten your mistake "
+    },
+    {
+        "ID": 145.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 145.0,
+        "Translation": "It had been raining since morning "
+    },
+    {
+        "ID": 146.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 146.0,
+        "Translation": "It had been raining for the last three hours "
+    },
+    {
+        "ID": 147.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 147.0,
+        "Translation": "They had been washing clothes since yesterday "
+    },
+    {
+        "ID": 148.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 148.0,
+        "Translation": "She had been wasting water for the last hour"
+    },
+    {
+        "ID": 149.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 149.0,
+        "Translation": "You had been sleeping for more than five hours now "
+    },
+    {
+        "ID": 150.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 150.0,
+        "Translation": "I had been trying to complete this school work for a week now "
+    },
+    {
+        "ID": 151.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 151.0,
+        "Translation": "The teacher had been announcing this test for last "
+    },
+    {
+        "ID": 152.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 152.0,
+        "Translation": "The laborers had been fixing this road since yesterday "
+    },
+    {
+        "ID": 153.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 153.0,
+        "Translation": "The man had been waiting for his son for half an hour "
+    },
+    {
+        "ID": 154.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 154.0,
+        "Translation": "The girl had been walking here for the last thirty minutes "
+    },
+    {
+        "ID": 155.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 155.0,
+        "Translation": "The mom had been designing your room since morning "
+    },
+    {
+        "ID": 156.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 156.0,
+        "Translation": "All the boys had been watching this cartoon since last years "
+    },
+    {
+        "ID": 157.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 157.0,
+        "Translation": "The girls had been playing guitar for an hour now  "
+    },
+    {
+        "ID": 158.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 158.0,
+        "Translation": "They all had been walking in the cold for the last twenty minutes"
+    },
+    {
+        "ID": 159.0,
+        "TenseID": 8.0,
+        "LanguageID": 2.0,
+        "SentenceID": 159.0,
+        "Translation": "Patients had been waiting for the doctor since the afternoon "
     }
 ]
